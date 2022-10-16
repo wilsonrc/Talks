@@ -1,6 +1,6 @@
 # Talks
 
-Set of learning resources about the talks I have made. I hope it will be helpful to you.
+Set of resources about the talks I have made. I hope it will be helpful to you.
 
 ### Agnostic
 #### "Learning how to Learn: The most critical skill in the Information Age"
